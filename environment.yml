@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - jupyterlab
+  - bson
   - qgrid
   - pandas-datareader>=0.5.0
   - matplotlib>=2.1.1
